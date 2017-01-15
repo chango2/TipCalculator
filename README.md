@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/a/Bzwj4' title='Tip Calculator - Code Path' width='' alt='Video Walkthrough' />
+<img src='C:\Users\ohmin\Desktop\tipCalc.gif' title='Tip Calculator - Code Path' width='' alt='Video Walkthrough' />
 
 
 ## Notes
