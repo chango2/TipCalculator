@@ -1,0 +1,59 @@
+body {
+	background: yellow;
+}
+
+h1 {
+	margin: 5px;
+	text-align: center;
+}
+
+#container {
+	border: 2px dotted black;
+	width: 15%;
+	margin: auto;
+	background: white;
+	padding: 15px;
+}
+
+form {
+	line-height: 40px;
+}
+
+input {
+	margin: 0 5px;
+}
+
+input[readonly] {
+	background-color: lightgrey;
+}
+
+input[type=submit] {
+	width: 100%;
+	margin: auto;
+	text-align: center;
+}
+
+input[type=text] {
+	width: 30%;
+}
+
+.wrong {
+	font-weight: bold;
+	font-size: 18px;
+	font-family: "Times New Roman", Georgia, Serif;
+	color: red;
+	font-family: monospace;
+}
+
+#receipt {
+	display: none;
+	padding: 15px;
+	width: 15%;
+	background: green;
+	font-weight: bold;
+	font-size: 25px;
+	border: 2px solid green;
+	color: white;
+	text-align: center;
+	margin: 20px auto;
+}
