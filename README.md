@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] Add "readOnly" to custom text input when not used. (Changes color to light grey)
+* [YES] Add "readOnly" to custom text input when not used. (Changes color to light grey)
 
 ## Video Walkthrough
 
@@ -38,7 +38,7 @@ Describe any challenges encountered while building the app.
 First time encountering PHP in few years after taking a brief lecture for about a week or two.
 Thus, I started out with reminding myself all the syntaxes from codeacademy.com and jumped right onto the Pre-work assignment.
 Despite being very new to PHP language, my proficiency in other programming languages helped me learn fast.
-Hardest challenge for me was the unique style of php coding language that was very different from how I would program with other languages. For example, dealing with $_POST request felt very strange to me, and it took me a while to figure out how to efficiently use POST requests to program. If I programmed this with javascript, I may have finished way faster, but I was enthusiastic about that fact that I am learning PHP because I knew that some day PHP will become important skill to learn due to the fact that most websites still use PHP as their server-side programming language. 
+Hardest challenge for me was the unique style of php coding language that was very different from how I would program with other languages. For example, dealing with $_POST request felt very strange to me, and it took me a while to figure out how to efficiently use POST requests to program. If I just ended with required section of this assignment I would have finished in 3-4 hours, but I was enthusiastic about that fact that I am learning PHP because I knew that some day PHP will become important skill to learn due to the fact that most websites still use PHP as their server-side programming language. Overall it was a fun exercise to teach myself PHP. 
 
 ## License
 
