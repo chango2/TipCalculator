@@ -1,10 +1,10 @@
 # Pre-work - TipCalculator
 
-tipCalc is a tip calculator PHP page.
+tipCalc is a tip calculator that calculates amount of tip you want to give.
 
 Submitted by: Changhwan Oh
 
-Time spent: 6 hours spent in total
+Time spent: 10 hours spent in total including training. 
 
 ## User Stories
 
@@ -22,15 +22,14 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the functionality!
+* [ ] Add "readOnly" to custom text input when not used. (Changes color to light grey)
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/a/Bzwj4' title='Tip Calculator - Code Path' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
